@@ -1,0 +1,12 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#registrationContainer {
+    max-width: 600px;
+}
